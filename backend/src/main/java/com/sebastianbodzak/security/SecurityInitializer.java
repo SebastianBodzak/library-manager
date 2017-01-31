@@ -1,4 +1,4 @@
-package pl.com.sebastianbodzak.configuration.security;
+package com.sebastianbodzak.security;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
 
